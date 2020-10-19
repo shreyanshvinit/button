@@ -1,2 +1,2 @@
 # button
-This is a reponsive webpage.
+This is a responsive webpage.
